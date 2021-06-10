@@ -1,0 +1,130 @@
+/*Header CSS*/
+a {
+    text-decoration: none;
+  }
+
+.Header-top{
+    background-color:#f5f6fa;
+    height:75px;
+    width:100%; 
+}
+.Ikon{
+    float:left;
+    height:100%;  
+}
+.kiri {
+
+    width:350px;
+}
+.tengah {
+
+    width:700px;
+}
+.kanan {
+  
+    width:335px;
+}
+.tengah a{
+    color:black;
+    
+    padding-left:0px;
+}
+
+.login{
+    float:right;
+    height:50px;    
+    width:60px;
+    
+}
+.login p{
+    padding-top:16px;
+    padding-left:43px;
+}
+
+.login p:hover {
+    color: rgba(255, 255, 255, 0.5);
+    cursor:pointer;
+  }
+
+.logo{
+    width: 150px;
+    margin:15px 10px 15px 125px;
+}
+.search{
+    width:15px;
+    padding-top:27px;
+    padding-left:275px;
+}
+.love{
+    width:30px;
+    padding-top:25px;
+    padding-left:180px;
+}
+.keranjang{
+    width:30px;
+    padding-top:0px;
+    padding-left:20px;
+}
+
+.Header-bottom{
+    background-color:#9e8a1b;
+    height:40px;
+    width:100%;
+}
+.Menu{
+      
+    display:inline-block;
+    float:left;
+    height:40px;
+    width:16.5%;
+    
+}
+
+.Menu a{
+      color:white; 
+      line-height:40px;
+      padding-left:70px;     
+}
+
+/*Top-wrapper CSS*/
+.top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(img/wrapper-backkground.png);
+    background-size: cover;
+    color: white;
+    text-align: center;
+  }
+  
+  .top-wrapper h1 {
+    opacity: 1;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+  
+  .top-wrapper p {
+    opacity: 1;
+    margin-bottom: 3px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .btn-wrapper {
+    margin: 20px 0;
+    background-color: #2D0103;
+    border: white, solid, 4px;
+    color: white;
+  }
+  
+  .limited-wrapper {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+
+
+  /*footer*/
